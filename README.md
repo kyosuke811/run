@@ -1,5 +1,4 @@
 
-````markdown
 # Discord Bot - チャンネル名更新・リマインダー・スプレッドシート検索
 
 このDiscord Botは以下の3つの機能を持っています：
