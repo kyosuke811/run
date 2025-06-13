@@ -60,7 +60,7 @@ python main.py
 ### 3. Googleスプレッドシート検索
 
 ```text
-!serch 検索語
+!serch 検索値
 ```
 
 * スプレッドシート全体から一致する値を検索
