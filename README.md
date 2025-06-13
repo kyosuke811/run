@@ -29,7 +29,6 @@ pip install discord.py gspread google-auth
 
 * `main.py`（このBotの全体コード）
 * `credentials.json`（Google Service Account の秘密鍵ファイル）
-* `.env`（セキュリティのためにDiscordのトークンを管理）
 
 ## 🚀 起動方法
 
