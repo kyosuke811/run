@@ -36,12 +36,6 @@ pip install discord.py gspread google-auth
 python main.py
 ```
 
-または `.env` ファイルを使う場合：
-
-```bash
-DISCORD_TOKEN=あなたのトークン
-```
-
 ## ✨ 各機能の説明
 
 ### 1. 部屋番号をチャンネル名に反映
